@@ -1,0 +1,7 @@
+kit/
+kit.tar.gz
+out/
+transcripts.tar.gz
+prompt-user.txt
+PLAN.md
+__pycache__/
